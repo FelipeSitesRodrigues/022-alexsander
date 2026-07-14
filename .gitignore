@@ -1,0 +1,8 @@
+# Arquivos-fonte originais (pesados, não usados pelo site publicado;
+# as versões otimizadas em WebP/JPG estão em /img)
+Recursos Site/
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
